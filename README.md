@@ -1,2 +1,2 @@
 # simple-scripts
-Simple scripts that can make my life easier
+Simple scripts that can make life easier
